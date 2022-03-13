@@ -1,4 +1,3 @@
-y = int(input())
+num = int(input('Insira aqui a sua idade: '))
 
-for i in range (y):
-    print(i)
+print("Sua idade é igual a", num)
